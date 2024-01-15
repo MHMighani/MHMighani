@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-<h1 align="center" style="border:none;margin-bottom:10px;">Hi there👋, I'm Mohammad Hosein</h1>
+<h1 align="center" style="border:none;margin-bottom:10px;">Hi there👋, I'm Mohammad Hossein</h1>
 <h3 align="center">I'm a Front End Developer</h3>
 <br/>
     <p align="center">
